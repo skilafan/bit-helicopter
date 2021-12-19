@@ -3,9 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
-        "SuperBit": "github:skilafan/SuperBit#0a0d6cd2c18804f6b56e944d0c7ff7bd91473ec8"
+        "SuperBit": "github:skilafan/SuperBit#0a0d6cd2c18804f6b56e944d0c7ff7bd91473ec8",
+        "bluetooth": "*"
     },
     "files": [
         "main.blocks",
